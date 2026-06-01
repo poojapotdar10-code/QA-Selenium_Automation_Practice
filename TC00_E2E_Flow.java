@@ -229,5 +229,7 @@ public class TC00_E2E_Flow
 	//---> Closing browser
 						driver.close();
 					    System.out.println("All done");
+						System.out.println("Robot class and Action class used");
+
 	}
 }
